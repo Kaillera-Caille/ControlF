@@ -9,7 +9,7 @@ I made it from scratch to work on windows since most of the recon tools are linu
 
 [ ] Make the program still onn when you type something wrong or leave all blank.
 
-[] Output the results on a .txt file.
+[ ] Output the results on a .txt file.
 
 [ ] Add a default wordlist folder.
 

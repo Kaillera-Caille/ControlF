@@ -17,7 +17,7 @@ I made it from scratch to work on windows since most of the recon tools are linu
 
 ## Installing
 
-All links avaiable in [Releases](https://github.com/Kaillera-Caille/ControlF/releases) tab.
+All links are avaiable in [Releases](https://github.com/Kaillera-Caille/ControlF/releases) tab.
 
 ## Usage: 
 

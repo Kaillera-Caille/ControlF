@@ -5,9 +5,11 @@ Subdomain finder made from scratch in C++
 Welcome to my Subdomain finder
 I made it from scratch to work on windows since most of the recon tools are linux only, i still have somethings to tweak but feel free to use the source code or the app itself.
 
-Things i still want to do on it
+### Things i still want to do on it:
 
 [ ] Make the program still onn when you type something wrong or leave all blank.
+
+[] Output the results on a .txt file.
 
 [ ] Add a default wordlist folder.
 
